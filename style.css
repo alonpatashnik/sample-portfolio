@@ -1,3 +1,28 @@
-body {
-    background-color: salmon;
+#top-box {
+    width: 98%;
+    height: 40px;
+    background-color: blanchedalmond;
+    border-bottom: 3px solid blueviolet;
+}
+
+a {
+    color: green;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: blueviolet;
+}
+
+li {
+    display: inline;
+    float: right;
+    margin: 7px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
 }
